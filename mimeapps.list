@@ -1,0 +1,15 @@
+[Added Associations]
+image/jpeg=nitrogen.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-I4D9F2.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-I4D9F2.desktop;
+x-scheme-handler/webcal=userapp-Thunderbird-IRQNG2.desktop;
+x-scheme-handler/webcals=userapp-Thunderbird-IRQNG2.desktop;
+
+[Default Applications]
+x-scheme-handler/mailto=userapp-Thunderbird-I4D9F2.desktop
+message/rfc822=userapp-Thunderbird-I4D9F2.desktop
+x-scheme-handler/mid=userapp-Thunderbird-I4D9F2.desktop
+x-scheme-handler/webcal=userapp-Thunderbird-IRQNG2.desktop
+text/calendar=userapp-Thunderbird-IRQNG2.desktop
+application/x-extension-ics=userapp-Thunderbird-IRQNG2.desktop
+x-scheme-handler/webcals=userapp-Thunderbird-IRQNG2.desktop
